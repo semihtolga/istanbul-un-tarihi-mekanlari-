@@ -33,7 +33,7 @@ export const data = [
   },
   {
     id: 5,
-    title: "Ayasofya",
+    title: "Ayasofya Müzesi",
     desc:
       "Ayasofya, mimari bakımdan merkezî planı birleştiren kubbeli bazilika tipinde bir yapı olup, kubbe geçişi ve taşıyıcı sistem özellikleriyle mimarlık tarihinde önemli bir dönüm noktası olarak ele alınır.",
     image: "https://i.pinimg.com/564x/d7/7c/ee/d77cee113eafc068844d69d4d7962510.jpg",
